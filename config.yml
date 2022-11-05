@@ -94,7 +94,7 @@ params:
       url: "https://nowpayments.io/donation/kazemcodes"
 
   editPost:
-    URL: "https://github.com/kazemcodes/kazem/tree/main/content"
+    URL: "https://github.com/kazemcodes/kazemcodes.github.io/tree/master/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
