@@ -22,5 +22,9 @@ Recently, I made a breakthrough in extension stuff from an idea that comes from 
 which could stream movies and series from web, the only difference from tachi was that unlike tachi it can install extensions 
 without users confirmation and the extension size is a lot less than before.
 
+I think it's enough for my first post over here, I'm currently trying to add move feature to media player feature of IReader in my free time. 
+
+If you like IReader and want new feature faster, you can support me over [here](https://nowpayments.io/donation/kazemcodes)
+👋👋
 
 
