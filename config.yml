@@ -3,6 +3,7 @@ title: KazemCodes
 paginate: 5
 theme: PaperMod
 
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
